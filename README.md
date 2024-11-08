@@ -41,6 +41,7 @@ A plataforma online é um sistema web de comércio de produtos e serviços de um
       • Tele-Entrega: Oferece entrega do pedido no endereço do cliente, com taxa de R$10,00.
 
 **3) Rodapé (Footer)**
+
 • Informações de Contato e Autoria: Exibe os dados de contato, e-mail e telefone do minimercado, além do nome do autor do site.
 
 • Direitos Autorais: Mostra os direitos autorais do site, com o ano de criação.
