@@ -24,7 +24,7 @@ A plataforma online é um sistema web de comércio de produtos e serviços de um
    • Alimentícios Não Perecíveis
    
       • Exemplo de Produto: Arroz (imagem, descrição e preço)
-      •Exemplo de Produto: Feijão (imagem, descrição e preço)
+      • Exemplo de Produto: Feijão (imagem, descrição e preço)
       
    • Higiene e Limpeza
    
